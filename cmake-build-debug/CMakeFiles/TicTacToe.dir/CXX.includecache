@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/TicTacToe.h
+iostream
+-
+
+/Users/Kristen/Desktop/Vanderbilt/Fall 2020/CS3281/TicTacToe/main.cpp
+TicTacToe.h
+/Users/Kristen/Desktop/Vanderbilt/Fall 2020/CS3281/TicTacToe/TicTacToe.h
+
+/Users/Kristen/Desktop/Vanderbilt/Fall 2020/CS3281/TicTacToe/src/TicTacToe.cpp
+TicTacToe.h
+/Users/Kristen/Desktop/Vanderbilt/Fall 2020/CS3281/TicTacToe/src/TicTacToe.h
+
